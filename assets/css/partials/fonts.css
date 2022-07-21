@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "Space-Grotesk Bold";
+    src:  url("../../fonts/SpaceGrotesk-Bold.ttf") format("truetype"); /* Safari, Android, iOS */
+    font-weight: 700; 
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Space-Grotesk Medium";
+    src:  url("../../fonts/SpaceGrotesk-Medium.ttf") format("truetype"); /* Safari, Android, iOS */
+    font-weight: 500; 
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Space-Grotesk Regular";
+    src:  url("../../fonts/SpaceGrotesk-Regular.ttf") format("truetype"); /* Safari, Android, iOS */
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Nunito SemiBold";
+    src:  url("../../fonts/Nunito-SemiBold.ttf") format("truetype"); /* Safari, Android, iOS */
+    font-weight: 600;
+    font-style: normal;
+}

@@ -1,0 +1,9 @@
+/*partials, components import */
+@import "./libraris/bootstrap.min.css";
+@import "./libraris/bootstrap-grid.css";
+@import "./partials/fonts.css";
+@import "./components/inputs.css";
+@import "./components/buttons.css";
+
+/*pages import */
+@import "./pages/index.css";
