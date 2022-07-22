@@ -134,7 +134,7 @@
 .about-work-section {
     margin-top: 152px;
 }
-.d-flex {
+.for-flex {
     display: flex;
     justify-content: space-between;
 }
@@ -173,6 +173,7 @@
 }
 .about-work-section-box-img{
     margin: 75px auto 51px;
+    /* margin: auto; */
 }
 .about-work-section-title, .features-items-title {
     text-align: center;
@@ -267,7 +268,6 @@ button.view-more-btn {
     align-items: flex-start;
     padding: 7.94427px 15.8885px 14.2997px 38.9269px;
     gap: 17.48px;
-    width: 415.49px;
     background-color: #FFFFFF;
     border-radius: 0px 39.7214px;
 }

@@ -1,3 +1,129 @@
-@media only screen and (max-width: 1439.98px) {
+@media only screen and (max-width: 1200px) {
+    .second-half-circles {
+        left: -7px;
+        bottom: -100px;
+    }
+
+    .first-half-input {
+        margin-top: 30px;
+    }
+
+    .second-half-circles img {
+        width: 70%;
+    }
+
+    .first-half-title {
+        font-size: 42px;
+        line-height: 55px;
+    }
+
+    .first-half-p {
+        font-size: 24px;
+        line-height: 35px;
+    }
+
+    .search-display input,
+    .search-display label,
+    .about-work-section-title-p,
+    .reason-items-text-p,.featured-descrp-h5 {
+        font-size: 20px;
+    }
+
+    .about-work-section-h3,
+    .reason-items-text-h4,
+    .features-items-title-h3,
+    .reviews-section-title-h3 {
+        font-size: 38px;
+    }
+
+    .about-work-section-p,
+    .about-work-section-title-h4,
+    .features-items-title-p,
+    .reviews-section-title-p ,.reviews-section-h5{
+        font-size: 24px;
+    }
+
+    .reason-items {
+        margin-top: 250px;
+    }
+    .featured-descrp-p{
+        font-size: 16px;
+    }
+    .reviews-section-p{
+        font-size: 18px;
+    }
+}
+@media only screen and (max-width: 991px) {
+    .first-half-title{
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .search-section-form{
+        display: block;
+    }
+    .search-display {
+        width: 100%;
+        text-align: center;
+    }
+    .search-section-button{
+        display: block;
+        margin: 26px auto 0 auto;
+    }
+    .search-display input{
+        width: 100%;
+        text-align: center;
+    }
+    .featured-properties{
+        width: 31%;
+    }
+    .features-items {
+        margin-top: 200px;
+    }
+    .reviews-section {
+        margin-top: 170px;
+    }
     
+}
+@media only screen and (max-width: 768px) {
+    .about-work-section-card, .about-work-section-card-center{
+        width: initial;
+        padding: 0px 10px 20px;
+    }
+    .about-work-section-box-img-center,.about-work-section-box-img{
+        margin: 25px auto 51px;
+    }
+    .reason-items {
+        margin-top: 170px;
+    }
+    .about-work-section-h3, .reason-items-text-h4, .features-items-title-h3, .reviews-section-title-h3{
+        text-align: center;
+    }
+    .reason-items-text-p{
+        text-align: center;
+    }
+    
+    .featured-properties{
+        width: initial;
+    }
+    .first-section .row{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .second-half-circles{
+        display: none;
+    }
+    .first-half{
+        margin-top: 25px;
+    }
+    .first-half-input {
+        margin: 30px auto 0;
+        display: block;
+        width: 300px;
+    }
+    .featured-options-split{
+        display: initial;
+    }
+    button.view-more-btn {
+        margin: 30px auto 60px;
+    }
 }
