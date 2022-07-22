@@ -27,6 +27,8 @@
     .about-work-section-title-p,
     .reason-items-text-p,.featured-descrp-h5 {
         font-size: 20px;
+        margin: 0 auto;
+        padding: 0;
     }
 
     .about-work-section-h3,
